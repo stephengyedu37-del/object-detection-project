@@ -1,4 +1,4 @@
- #Object Detection and Recognition Project
+ # Object Detection and Recognition Project
 
 This project trains a YOLO model (Ultralytics) to detect and recognise myself in images.
 
